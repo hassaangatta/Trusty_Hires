@@ -152,7 +152,7 @@ a{
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 150px;
+  margin: 100px;
 }
 
 .search_input {
